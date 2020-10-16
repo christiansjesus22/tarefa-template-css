@@ -1,0 +1,22 @@
+oi bom dia. disculpe pelo horario. fiz o template de novo para deixar a pagina mais curta. por isso nao tem commit
+tente seguir a linha do template de example, ainda nao finalize a parte de responsividade acho que consigo terminar amanha.
+mais queria mandar esto para saber si estou fazendo da forma correta. agora sim, as duvidas.
+
+ nao e uma duvida em sim. na parte de title "carolina herrera, e a cita de baixo"  coloquei um line-height:20px
+para reducir a distanciamiento emtre as linhas. o problema e que ele superpone quando ele fica pequenho a parte de h1. 
+como posso para melhorar isso. 
+
+a segunda e sobre que coloquei um display de inline na parte  do ul no navegation, nao sei si isso practica errada.
+
+o tercero. fou que eu por error coloque na parte de css  html, body para tentar fazer a pagina pelo porcentagem
+e ele finalizo afetando de novo a tela e nao o body. minha pergumta e que si e correto tentar fazer a pagina de 
+esta forma.
+
+o quarto e na parte do indice e tudos tam bem na verdade, ele quando fica apertado atte certo ponto , inicia a baixar aguns items(imagems geralemnte) atte a section em baixo. nao sei si isto 
+tem que ver com meu anterior error na parte de html, body.
+
+ ja como ultimo, tem agumas parte do css onde eu coloque elementos como o p ou as h2 que tem um tamanho padrao dentro das clases ou section.
+ eu fez isso pela raçao que quando eu colocaba somente h2 ou p para disminuir algumas linhas ele nao aceitaba. e nao se por que acontece isso
+
+ obrigado pelo tudo.   
+
