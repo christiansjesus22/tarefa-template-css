@@ -209,7 +209,12 @@ aside .noticiaRight {
   height: 100%;
   border: 1px solid;
   background-color: lightcoral;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
 }
+
 body footer {
   display: flex;
   flex-wrap: wrap;
