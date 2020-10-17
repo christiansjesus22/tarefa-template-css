@@ -18,5 +18,15 @@ tem que ver com meu anterior error na parte de html, body.
  ja como ultimo, tem agumas parte do css onde eu coloque elementos como o p ou as h2 que tem um tamanho padrao dentro das clases ou section.
  eu fez isso pela raçao que quando eu colocaba somente h2 ou p para disminuir algumas linhas ele nao aceitaba. e nao se por que acontece isso
 
- obrigado pelo tudo.   
+ obrigado pelo tudo.
+
+ ATUALIZAÇAO SABADO!!
+ 
+oi mude algumas coisas do arquivo html  na parte de artcl01, mude a parte da imagem para um valor fixo pela questao 
+de que o texto em vez de quando sticar ele  ficar ao lado de baixo da imagem encerrando ela. o texto continuaba na parte 
+izquerda.
+
+tenho uma duvida com relaçao a na tarefa 08. eu coloque o carolina herrera como un item realitvo e a immagem como absolute.
+meu problema acontece quando eu colocar o menu de navegaçao como fixed ele não  respeita o espaçamento de a barra.
+e imagem pega o lugar dele. 
 
