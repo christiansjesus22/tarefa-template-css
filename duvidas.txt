@@ -30,3 +30,6 @@ tenho uma duvida com relaçao a na tarefa 08. eu coloque o carolina herrera como
 meu problema acontece quando eu colocar o menu de navegaçao como fixed ele não  respeita o espaçamento de a barra.
 e imagem pega o lugar dele. 
 
+tercer commit!!
+ oi neste commit mudé algumas coisas de de css. mis tenho problemas com a parte de que o texto fica baixando atte a outra section, mais agora ele 
+ ja nao fica sima, somente. esto acontece na parte de responsividade.
