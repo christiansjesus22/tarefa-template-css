@@ -33,3 +33,10 @@ e imagem pega o lugar dele.
 tercer commit!!
  oi neste commit mudé algumas coisas de de css. mis tenho problemas com a parte de que o texto fica baixando atte a outra section, mais agora ele 
  ja nao fica sima, somente. esto acontece na parte de responsividade.
+
+quarto commit!! 
+consegui que a o texto nao pegase parte da section do aside, o que aconteçeu. foi que 
+error como fiz toda a pagina de forma que as section ficaram. sempre com relaçao a na tela, 
+ele somente pegaba como a section total o 100% da tela mais ficaba dando error.
+o que eu fiz foi colocar que a section ocupase pelo  menos 150%. mais na verdade. mais acho que isso 
+nao e uma boa practica. nao se que voce pensa. gostaria de um conselho.
